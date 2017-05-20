@@ -1,1 +1,3 @@
 # EncryptedChatClient
+
+Start by "python "
