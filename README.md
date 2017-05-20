@@ -1,3 +1,3 @@
 # EncryptedChatClient
 
-Start by "python "
+Start by "python EncryptedChatClient"
